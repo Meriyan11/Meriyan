@@ -1,0 +1,32 @@
+body {
+    background-image: url(abstract-blur-empty-green-gradient-studio-well-use-as-backgroundwebsite-templateframebusiness-report.jpg);
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    background: goldenrod;
+    text-emphasis-color: rgb(0, 120, 0);
+    width: 300px;
+    color: rgb(0, 120, 0);
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
